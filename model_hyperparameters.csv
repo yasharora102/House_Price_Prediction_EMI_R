@@ -1,0 +1,7 @@
+model,best_score,best_params
+linear_regression,0.8247724012991522,"{'copy_X': True, 'fit_intercept': False, 'n_jobs': 1, 'positive': False}"
+decision_tree,0.8588178403191369,"{'criterion': 'friedman_mse', 'splitter': 'best'}"
+Random_Forest,0.8940413941938574,{'n_estimators': 80}
+Catboost,0.8539042388565352,"{'depth': 10, 'iterations': 50, 'learning_rate': 0.1}"
+XGBoost,0.8839064442536122,"{'booster': 'gbtree', 'learning_rate': 0.1, 'max_depth': 12, 'n_estimators': 50}"
+LightGBM,0.8518561303682478,"{'boosting_type': 'gbdt', 'learning_rate': 0.1, 'max_depth': 15, 'n_estimators': 50}"

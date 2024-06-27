@@ -1,0 +1,7 @@
+Model,Accuracy
+RandomForestRegressor,0.8930190120463886
+LinearRegression,0.8279962493991252
+DecisionTreeRegressor,0.861113226085616
+XGBRegressor,0.8834971567064093
+LGBMRegressor,0.8598023383582942
+CatBoostRegressor,0.8502026444734307
